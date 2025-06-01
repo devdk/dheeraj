@@ -12,7 +12,7 @@
 
 - 💼 Website Dev & Freelancer  
 - 💬 20+ live web projects  
-- ✍️ Sharing journey and solving real dev doubts on [LinkedIn](https://www.linkedin.com/in/dheerajheree/)
+- ✍️ Sharing journey and solving real dev doubts on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dheerajheree/)
 
 ---
 
@@ -60,10 +60,6 @@
       src="https://github-readme-streak-stats.herokuapp.com/?user=devdk&theme=default" 
       alt="Dheeraj's GitHub streak" />
   </picture>
-
-  <br><br>
-
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=devdk&theme=github-compact" alt="Dheeraj's GitHub activity graph" />
 </p>
 
 ---
@@ -72,7 +68,7 @@
 
 - 🧠 20+ websites delivered
 - 🛠️ Helping clients scale digitally via Web + SEO
-- 📈 100K+ views on Stack Overflow · 50+ answers · 1K+ reputation
+  
 
 ---
 
@@ -82,7 +78,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dheerajheree/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dheerajwp)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:okkdheeraj@gmail.com)
-[![StackOverflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/14431734/amit-kumar)
+
 
 ---
 
