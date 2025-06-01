@@ -2,7 +2,7 @@
 
 **Web Developer** | Freelancer 
 🔧   MERN · WordPress . WooCommerce . Shopify . SEO 
-📢 I develop and design web applications converts $
+📢 I develop and design web applications that converts $
 
 ---
 
